@@ -1,0 +1,13 @@
+Bio-Data
+
+Name: Aravindan G
+DOB: 06/02/2006
+Gender: Male
+Age: 18
+Nationality: Indian
+Language Known: Tamil, English
+Degree: BCA
+Qualifications: Higher Secondary
+Hobbies: Playing Cricket, Learning New Skills
+Address: 72/3 chengalpttu-603101
+Contact: ABC@gmail.com
